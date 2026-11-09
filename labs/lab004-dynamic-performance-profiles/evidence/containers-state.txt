@@ -1,0 +1,27 @@
+=== RLAB CONTAINER HOST STATE ===
+Fri Sep 18 01:43:03 PM CDT 2026
+Current active profile: rlab-containers
+
+CPU Governors:
+performance
+performance
+performance
+performance
+
+Energy Performance Bias:
+0
+0
+0
+0
+
+Swappiness:
+vm.swappiness = 10
+
+Read Ahead:
+4096
+
+I/O Scheduler:
+none [mq-deadline] kyber bfq 
+
+Turbo:
+0

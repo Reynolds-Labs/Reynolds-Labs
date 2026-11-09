@@ -1,0 +1,20 @@
+=== BEFORE RLAB-WORKSTATION ===
+Fri Sep 18 10:34:55 AM CDT 2026
+
+=== ACTIVE PROFILE ===
+Current active profile: balanced
+
+=== CPU GOVERNORS ===
+schedutil
+schedutil
+schedutil
+schedutil
+
+=== ENERGY PERFORMANCE BIAS ===
+6
+6
+6
+6
+
+=== SCHEDULER AUTOGROUP ===
+kernel.sched_autogroup_enabled = 1

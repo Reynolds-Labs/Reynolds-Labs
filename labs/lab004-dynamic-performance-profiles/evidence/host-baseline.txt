@@ -1,0 +1,40 @@
+=== REYNOLDS LABS - LAB 004 BASELINE ===
+Captured: Fri Sep 18 10:26:02 AM CDT 2026
+
+=== OS ===
+Rocky Linux release 10.2 (Red Quartz)
+6.12.0-211.54.1.el10_2.x86_64
+
+=== TUNED ===
+tuned-2.27.0-2.el10_2.noarch
+Current active profile: balanced
+throughput-performance
+
+=== CPU ===
+CPU(s):                                  4
+On-line CPU(s) list:                     0-3
+Model name:                              Intel(R) Core(TM) i5-4570T CPU @ 2.90GHz
+Thread(s) per core:                      2
+Core(s) per socket:                      2
+Socket(s):                               1
+CPU(s) scaling MHz:                      92%
+NUMA node0 CPU(s):                       0-3
+
+=== VIRTUALIZATION ===
+none
+
+=== MEMORY ===
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       4.2Gi       7.2Gi       766Mi       5.0Gi        11Gi
+Swap:          7.8Gi          0B       7.8Gi
+
+=== STORAGE ===
+NAME          SIZE TYPE FSTYPE      MOUNTPOINTS
+sda         953.9G disk             
+├─sda1        600M part vfat        /boot/efi
+├─sda2          1G part xfs         /boot
+└─sda3      952.3G part LVM2_member 
+  ├─rl-root    70G lvm  xfs         /var/lib/containers/storage/overlay
+  │                                 /
+  ├─rl-swap   7.8G lvm  swap        [SWAP]
+  └─rl-home 874.5G lvm  xfs         /home

@@ -1,0 +1,24 @@
+=== RLAB ECO STATE ===
+Fri Sep 18 01:42:09 PM CDT 2026
+Current active profile: rlab-eco
+
+CPU Governors:
+schedutil
+schedutil
+schedutil
+schedutil
+
+Energy Performance Bias:
+15
+15
+15
+15
+
+Swappiness:
+vm.swappiness = 60
+
+Intel P-State:
+passive
+
+Intel no_turbo:
+1

@@ -1,0 +1,21 @@
+=== RLAB WORKSTATION STATE ===
+Fri Sep 18 10:40:01 AM CDT 2026
+Current active profile: rlab-workstation
+
+CPU Governors:
+schedutil
+schedutil
+schedutil
+schedutil
+
+Energy Performance Bias:
+6
+6
+6
+6
+
+Swappiness:
+vm.swappiness = 60
+
+Socket Listen Backlog:
+net.core.somaxconn = 4096
