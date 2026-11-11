@@ -24,17 +24,32 @@ Projects emphasize hands-on Linux administration, infrastructure, automation, se
 
 ## Featured Lab
 
-### [LAB 003 — RL_Backup: Automated Backup & Recovery Manager](labs/lab003-Self-Created-Backup-Program/)
+### [LAB 001 — Role-Based User Provisioning](labs/lab001-role-based-user-provisioning/)
 
-**Rocky Linux • Python • Bash • systemd • rsync • SHA-256 • PolicyKit • SELinux**
+**Rocky Linux • Bash • SKEL • Linux Permissions • SELinux • KDE Plasma**
 
-Designed and built a Linux backup and recovery manager combining automated local recovery points, external backups, integrity verification, retention, systemd scheduling, and controlled file restoration through an administrator-facing desktop application.
+Built a repeatable role-based Linux onboarding system for Standard, Human Resources, and fictional Special Projects users.
 
-RL_Backup separates its non-root graphical interface from privileged operations through a restricted PolicyKit-authorized control layer. Backup integrity is validated through structural checks and SHA-256 verification rather than assuming that a successful copy is recoverable.
+Custom skeleton profiles deliver role-specific workstation resources while Linux groups and protected shared directories enforce least-privilege access. An administrator-facing provisioning workflow repeatedly creates users from standardized role templates rather than manually rebuilding each environment.
 
-Final acceptance testing included automated backup execution, full integrity verification of more than 161,000 files with zero failures, simulated file deletion, and successful recovery through the graphical interface.
+**Highlights:** Automated user provisioning • Custom SKEL profiles • Role-based access isolation • SGID shared directories • SELinux Enforcing • KDE workstation automation • Repeatability testing
 
-**Highlights:** Incremental recovery points • systemd automation • SHA-256 integrity verification • Tested file recovery • PolicyKit privilege separation • SELinux Enforcing • External backup validation • Backup profiles and retention
+[Explore Featured Lab →](labs/lab001-role-based-user-provisioning/)
+
+---
+
+## Featured Log
+
+### [LOG-001 — Linux: More Than an Operating System](logs/log001-linux-more-than-an-operating-system/)
+
+**My Journey Back to Linux**
+
+A personal essay about discovering Linux in college, returning to it through professional work and a home lab, and finding new life for an aging laptop with Ubuntu. It explores what I value about Linux—and why the right technology still depends on the people and the problem.
+
+**Published:** November 9, 2026  
+**Categories:** About Me • Perspectives
+
+[Read LOG-001 →](logs/log001-linux-more-than-an-operating-system/)
 
 ---
 
@@ -47,6 +62,18 @@ Final acceptance testing included automated backup execution, full integrity ver
 | 003 | [RL_Backup — Automated Backup & Recovery Manager](labs/lab003-Self-Created-Backup-Program/) | Linux / Backup & Recovery / Automation | **Complete** |
 | 004 | [Dynamic Performance Profiles & ReTune](labs/lab004-dynamic-performance-profiles/) | Linux / Performance / Automation | **Complete** |
 | 005 | [Private RPM Repository](labs/lab005-private-rpm-repository/) | Linux / Software Distribution / Security | **Complete** |
+
+---
+
+## Log Directory
+
+**Thoughts • Experiments • Observations • Occasional System Errors**
+
+| Log | Article | Categories | Published |
+|---|---|---|---|
+| 001 | [Linux: More Than an Operating System](logs/log001-linux-more-than-an-operating-system/) | About Me, Perspectives | 2026-11-09 |
+
+**[Explore The Logs and all five categories →](logs/)**
 
 ---
 
@@ -126,6 +153,18 @@ The design emphasizes controlled software distribution, package trust, and repea
 
 ---
 
+## The Logs
+
+*Not every experiment needs a lab. Not every thought needs a terminal.*
+
+The Logs is a collection of personal essays, software evaluations, technical field notes, and observations about technology—including its occasional appearances in entertainment.
+
+**Browse by category:** About Me • Perspectives • Software Reviews • Field Notes • Tech & Entertainment
+
+[Visit The Logs →](logs/)
+
+---
+
 ## Areas of Exploration
 
 - Linux & Systems Administration
@@ -201,7 +240,8 @@ Planned and in-progress areas include:
 ## Status
 
 **Portfolio:** Active Development  
-**Published Labs:** 5
+**Published Labs:** 5  
+**Published Logs:** 1
 
 ---
 
