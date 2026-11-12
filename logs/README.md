@@ -20,7 +20,7 @@ Every entry receives a permanent log number and publication date. Articles are o
 
 ## Featured Log
 
-### [LOG-001 — Linux: More Than an Operating System](log001-linux-more-than-an-operating-system/)
+### [LOG-001 — Linux: More Than an Operating System](log001-linux-more-than-an-operating-system/README.md)
 
 **My Journey Back to Linux**
 
@@ -31,7 +31,7 @@ From breathing new life into an aging laptop to discovering the freedom of build
 **Published:** November 9, 2026  
 **Categories:** About Me • Perspectives
 
-**[Read LOG-001 →](log001-linux-more-than-an-operating-system/)**
+**[Read LOG-001 →](log001-linux-more-than-an-operating-system/README.md)**
 
 ---
 
@@ -45,7 +45,7 @@ Personal experiences, professional development, career reflections, and my relat
 
 | Log | Article | Published |
 |---|---|---|
-| LOG-001 | [Linux: More Than an Operating System](log001-linux-more-than-an-operating-system/) | 2026-11-09 |
+| LOG-001 | [Linux: More Than an Operating System](log001-linux-more-than-an-operating-system/README.md) | 2026-11-09 |
 
 ---
 
@@ -55,7 +55,7 @@ Thoughts, opinions, and observations about technology, open-source software, IT 
 
 | Log | Article | Published |
 |---|---|---|
-| LOG-001 | [Linux: More Than an Operating System](log001-linux-more-than-an-operating-system/) | 2026-11-09 |
+| LOG-001 | [Linux: More Than an Operating System](log001-linux-more-than-an-operating-system/README.md) | 2026-11-09 |
 
 ---
 
@@ -95,7 +95,7 @@ All published entries are listed below, regardless of category.
 
 | Log ID | Title | Categories | Published |
 |---|---|---|---|
-| LOG-001 | [Linux: More Than an Operating System](log001-linux-more-than-an-operating-system/) | About Me, Perspectives | 2026-11-09 |
+| LOG-001 | [Linux: More Than an Operating System](log001-linux-more-than-an-operating-system/README.md) | About Me, Perspectives | 2026-11-09 |
 
 ---
 
