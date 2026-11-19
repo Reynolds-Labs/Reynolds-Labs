@@ -46,6 +46,7 @@ Personal experiences, professional development, career reflections, and my relat
 | Log | Article | Published |
 |---|---|---|
 | LOG-001 | [Linux: More Than an Operating System](log001-linux-more-than-an-operating-system/README.md) | 2026-11-09 |
+| LOG-002 | [Never Stop Teching — The Story Behind Reynolds Labs](log002-never-stop-teching/README.md) | 2026-11-19 |
 
 ---
 
@@ -96,6 +97,7 @@ All published entries are listed below, regardless of category.
 | Log ID | Title | Categories | Published |
 |---|---|---|---|
 | LOG-001 | [Linux: More Than an Operating System](log001-linux-more-than-an-operating-system/README.md) | About Me, Perspectives | 2026-11-09 |
+| LOG-002 | [Never Stop Teching — The Story Behind Reynolds Labs](log002-never-stop-teching/README.md) | About Me | 2026-11-19 |
 
 ---
 
@@ -135,9 +137,8 @@ logs/
 ├── README.md
 ├── log001-linux-more-than-an-operating-system/
 │   └── README.md
-├── log002-future-article/
-│   └── README.md
-└── ...
+└── log002-never-stop-teching/
+    └── README.md
 ```
 
 Future article directories are created as entries are published.
