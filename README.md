@@ -241,7 +241,7 @@ Planned and in-progress areas include:
 
 **Portfolio:** Active Development  
 **Published Labs:** 5  
-**Published Logs:** 1
+**Published Logs:** 2
 
 ---
 
