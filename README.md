@@ -71,7 +71,8 @@ A personal essay about discovering Linux in college, returning to it through pro
 
 | Log | Article | Categories | Published |
 |---|---|---|---|
-| 001 | [Linux: More Than an Operating System](logs/log001-linux-more-than-an-operating-system/) | About Me, Perspectives | 2026-11-09 |
+| 001 | [Linux: More Than an Operating System](logs/log001-linux-more-than-an-operating-system/README.md) | About Me, Perspectives | 2026-11-09 |
+| 002 | [Never Stop Teching — The Story Behind Reynolds Labs](logs/log002-never-stop-teching/README.md) | About Me | 2026-11-19 |
 
 **[Explore The Logs and all five categories →](logs/)**
 
